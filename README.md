@@ -1,2 +1,3 @@
-smr
+SMR
 ===
+Web-project on Yii2
